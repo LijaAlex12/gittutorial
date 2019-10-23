@@ -5,3 +5,7 @@ https://github.com/LijaAlex12/gittutorial.git
 cd gittutorial
 touch gitseries.txt
 atom .
+git add gitseries.txt
+git commit -m "added gitseries.txt"
+git status
+git push
