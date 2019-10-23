@@ -9,3 +9,7 @@ git add gitseries.txt
 git commit -m "added gitseries.txt"
 git status
 git push
+
+//topic 2
+git pull
+=>allows latest changes made to a repo to be downloaded to my own computer
