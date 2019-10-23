@@ -1,0 +1,7 @@
+create a repo in github say gittutorial
+git clone <url>
+=>remote version of repository (cloning) stored on github gets downloaded to your computer
+https://github.com/LijaAlex12/gittutorial.git
+cd gittutorial
+touch gitseries.txt
+atom .
