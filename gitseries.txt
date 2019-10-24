@@ -11,19 +11,9 @@ git status
 git push
 
 
-//topic 2 working with git pull github
+//topic 2 working with git pull
 git pull
 =>allows latest changes made to a repo to be downloaded to my own computer
 //working with git pull
 
 
-github 1
-
-<<<<<<< HEAD
-
-git 2
-=======
->>>>>>> 2c8c6f1c3ec162a90ca28f99f9545160dd161196
-
-github 3
->>>>>>> bb3c463fc75ec07b441e2358e44627ea8960be40
