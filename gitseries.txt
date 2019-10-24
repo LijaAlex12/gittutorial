@@ -7,6 +7,7 @@ touch gitseries.txt
 atom .
 git add gitseries.txt
 git commit -m "added gitseries.txt"
+//add and commit together use , git commit -am "hgf"
 git status
 git push
 
@@ -14,3 +15,14 @@ git push
 //topic 2 working with git pull
 git pull
 =>allows latest changes made to a repo to be downloaded to my own computer
+git log //shows history of commits
+git reflog //shows history of commit
+
+//to reset back to the older versions use the commit hash
+git reset --hard <commit>
+git reset --hard origin/master
+
+//topic 3 Branching
+git branch //shows different branches
+git branch feature //creating new branch say 'feature'
+git checkout feature //to move to feature branch
