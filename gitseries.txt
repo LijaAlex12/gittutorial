@@ -26,3 +26,8 @@ git reset --hard origin/master
 git branch //shows different branches
 git branch feature //creating new branch say 'feature'
 git checkout feature //to move to feature branch
+
+git merge //to merge feature branch to master
+git push --set-upstream origin feature //to push to github the feature branch
+
+demo:create a second branch 'feature2'
