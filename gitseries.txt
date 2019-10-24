@@ -15,12 +15,9 @@ git push
 git pull
 =>allows latest changes made to a repo to be downloaded to my own computer
 //working with git pull
-<<<<<<< HEAD
-1 git
-=======
-=======
-making change 
->>>>>>> 8bb6d21483cd40ffcefad199c3861d5ca722f33b
+
+
 github 1
 
->>>>>>> 2c8c6f1c3ec162a90ca28f99f9545160dd161196
+
+git 2
