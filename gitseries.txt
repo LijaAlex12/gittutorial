@@ -14,6 +14,6 @@ git push
 //topic 2 working with git pull
 git pull
 =>allows latest changes made to a repo to be downloaded to my own computer
-//working with git pull
+
 
 
