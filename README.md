@@ -43,8 +43,11 @@ r=>recursive
 . =>all of the files inside the repository
 
 create .gitignore file
-# used to comment
-*.txt to ignore all with txt extension
+ 
+#used to comment
+
+asterisk.txt 
+to ignore all with txt extension
 git add .
 git status
 git commit -m "bhdb"
