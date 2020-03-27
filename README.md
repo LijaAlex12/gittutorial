@@ -79,3 +79,6 @@ git checkout branchname
 switch to master
 git checkout master
 git merge branchname
+
+# Forking and pull requests
+
