@@ -52,3 +52,21 @@ git add .
 git status
 git commit -m "bhdb"
 
+# cloning a remote repository to pull it into the local repository
+git clone urlOfRepository
+once you cloned a project git log
+to find their commits
+# forking pull requests and merging
+# BRANCHING
+ 1 2    3----4---
+     3    4 /
+# creating branch
+git branch branchname
+# to list out branches
+git branch
+# to switch branch 
+git checkout branchname
+# to merge changes to master branch
+switch to master
+git checkout master
+git merge branchname
