@@ -31,4 +31,21 @@ git push pushes all those commits to github
 
 git ignore
 
-github/gitignore
+Refer github/gitignore to find the common stuffs u need to add to specific projects say swift code
+
+git init
+git add .
+git status
+removing all of the files so staged from the staging area and add them once the gitignore is set up
+making the files untracked
+git rm --cached -r .
+r=>recursive
+. =>all of the files inside the repository
+
+create .gitignore file
+# used to comment
+*.txt to ignore all with txt extension
+git add .
+git status
+git commit -m "bhdb"
+
