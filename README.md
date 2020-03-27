@@ -28,6 +28,15 @@ in the local repository
 github and remote repository-github
 
 git push pushes all those commits to github
+create a repository(remote) in github
+copy the url of the repository
+git remote add origin url
+git push -u origin master
+
+note:- here origin is the name of the remote and master is the name of the main branch
+you can call it any name say  "muthus"
+
+git remote
 
 git ignore
 
