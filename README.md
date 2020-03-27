@@ -29,3 +29,6 @@ github and remote repository-github
 
 git push pushes all those commits to github
 
+git ignore
+
+github/gitignore
